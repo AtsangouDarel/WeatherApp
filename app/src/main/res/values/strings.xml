@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="createcity_title">New city name?</string>
+    <string name="createcity_positive">Create city</string>
+    <string name="createcity_negative">cancel</string>
+    <string name="createcity_cityhint">Douala, Yaounde...</string>
+    <string name="menu_create_city">Create city</string>
+
+    <string name="deletecity_title">Do yu really want to delete %1$s?</string>
+    <string name="deletecity_positive">Delete city</string>
+    <string name="deletecity_negative">Cancel</string>
+    <string name="city_message_error_could_not_create_city">Could not create city</string>
+    <string name="city_message_info_city_deleted">%1$s has been deleted</string>
+    <string name="city_message_error_delete_city">could not delete %1$s</string>
+    <string name="weather_message_error_could_not_load_message">Could not load city weather</string>
+
+    <string name="weather_message_error_could_not_load_weather">Could not load city weather</string>
+    <string name="weather_temperature_value">%1$d °C</string>
+    <string name="weather_humidity_value">%1$d %%</string>
+    <string name="weather_pressure_value">%1$d HPA</string>
+    <string name="menu_refresh_weather">Refresh weather</string>
+    <string name="weather_temperature_label">Temperature:</string>
+
+</resources>
